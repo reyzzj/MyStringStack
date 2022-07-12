@@ -18,6 +18,7 @@ public class MyStringStack {
 		v.remove(result);
 		return result;
 	}
+	//hi
 	
 	public boolean isEmpty(){
 		return v.isEmpty();		
